@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/eli-oat/wash-your-hands/issues"
   },
-  "homepage": "https://github.com/eli-oat/wash-your-hands#readme"
+  "homepage": "https://github.com/eli-oat/wash-your-hands#readme",
+  "devDependencies": {
+    "eleventy": "^1.0.6"
+  }
 }

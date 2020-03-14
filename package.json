@@ -2,9 +2,11 @@
   "name": "wash-your-hands",
   "version": "1.0.0",
   "description": "A helping hand...as long as they don't touch.",
-  "main": "index.js",
+  "main": "index.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "clean": "rm -rf _site"
   },
   "repository": {
     "type": "git",

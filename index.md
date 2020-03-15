@@ -1,5 +1,6 @@
 ---
 title: Quarantzine
+layout: default.hbs
 --- 
 
 This site was created on March 14th, 2020. Much of the world's population is currently under some sort of quarantine amidst the outbreak of [Covid-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019).

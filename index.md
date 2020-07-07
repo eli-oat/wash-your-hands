@@ -15,4 +15,4 @@ Folks like you can also connect and share resources on our [forum](https://bb.qu
 
 > "...wait!?"
 
-Yeah, a **forum**. We are going web 1.0!
+Yeah, a **forum**. We are going web 1.0!!!
